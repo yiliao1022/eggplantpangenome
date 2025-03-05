@@ -1,0 +1,13 @@
+ID	p-value	Description	Count	Fold Enrichment
+GO:0050688	9.79E-14	regulation of defense response to virus	125	2.015217366
+GO:0006952	1.17E-13	defense response	8036	1.273111921
+GO:0098542	4.72E-14	defense response to other organism	5724	1.332411604
+GO:0034050	4.17E-14	symbiont-induced defense-related programmed cell death	2205	2.010240372
+GO:0051607	3.91E-14	defense response to virus	667	1.798316701
+GO:0140546	4.88E-14	defense response to symbiont	3153	1.534979642
+GO:0052482	6.93E-11	defense response by cell wall thickening	139	1.733765745
+GO:0052544	6.93E-11	defense response by callose deposition in cell wall	139	1.733765745
+GO:0052031	1.08E-06	symbiont-mediated perturbation of host defense response	120	1.562568542
+GO:0050829	1.13E-06	defense response to Gram-negative bacterium	140	1.508115396
+GO:0052542	6.63E-05	defense response by callose deposition	139	1.404756893
+GO:0050687	0.049396301	negative regulation of defense response to virus	12	1.961292929
